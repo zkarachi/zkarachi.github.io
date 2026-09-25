@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Conferences & Publications"
-permalink: /Conferences & Publications/
+title: "Publications"
+permalink: /Publications/
 author_profile: true
 ---
 ### Journals
@@ -31,6 +31,10 @@ author_profile: true
 ---
 
 ### Conferences
+
+- **Towards the Development of Wound Care Robots: An Observational Study Outlining Robotic Design Needs**\
+  Z. Karachiwalla, E. Lee, A. Dierkes, H. Admoni, and Z. Erickson. (2024). Towards the Development of Wound Care Robots: An Observational Study Outlining Robotic Design Needs. Aging in Place Workshop at the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI '24), Boulder, CO, USA.
+  <br>[PDF Paper](http://zkarachi.github.io/files/WoundCareRobots.pdf)
 
 - **"I'm ok because I'm alive": understanding socio-cultural accessibility barriers for refugees with disabilities in the US**\
   F. Hamidi., and Z. Karachiwalla. (2022). "I'm ok because I'm alive": understanding socio-cultural accessibility barriers for refugees with disabilities in the US. In Proceedings of the 19th   
