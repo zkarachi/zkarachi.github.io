@@ -31,28 +31,28 @@ author_profile: true
 ---
 
 ### Conferences
-
+- **Descriptive Analysis of Manipulation Techniques in Wound Care**\
+  Z. Karachiwalla, A. Srinivasan, E. Lee, A. Dierkes, Z. Erickson, and H. Admoni. (2026). Descriptive Analysis of Manipulation Techniques in Wound Care. 2026 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026), Kitakyushu, Fukuoka, Japan.
+  
 - **Towards the Development of Wound Care Robots: An Observational Study Outlining Robotic Design Needs**\
-  Z. Karachiwalla, E. Lee, A. Dierkes, H. Admoni, and Z. Erickson. (2024). Towards the Development of Wound Care Robots: An Observational Study Outlining Robotic Design Needs. Aging in Place Workshop at the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI '24), Boulder, CO, USA.
+  Z. Karachiwalla, E. Lee, A. Dierkes, H. Admoni, and Z. Erickson. (2024). Towards the Development of Wound Care Robots: An Observational Study Outlining Robotic Design Needs. Aging in Place Workshop at the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024), Boulder, CO, USA.
   <br>[PDF Paper](http://zkarachi.github.io/files/WoundCareRobots.pdf)
 
 - **"I'm ok because I'm alive": understanding socio-cultural accessibility barriers for refugees with disabilities in the US**\
   F. Hamidi., and Z. Karachiwalla. (2022). "I'm ok because I'm alive": understanding socio-cultural accessibility barriers for refugees with disabilities in the US. In Proceedings of the 19th   
-  International Web for All  
-  Conference (W4A '22). Association for Computing Machinery 
+  International Web for All Conference (W4A '22). Association for Computing Machinery 
   <br>[Link to Paper](https://dl.acm.org/doi/abs/10.1145/3493612.3520446)<br> 
   [PDF Paper](http://zkarachi.github.io/files/paper2.pdf)
 
 - **Towards a ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally Invasive Surgery Training Assessments**\
-  S. Machaca, Z. Karachiwalla, N. D. Riaziat and J. D. Brown. (2022) . Towards a ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally Invasive Surgery Training  
-  Assessments. 2022 International Symposium on Medical  
-  Robotics (ISMR)  
+  S. Machaca, Z. Karachiwalla, N. D. Riaziat and J. D. Brown. (2022) . Towards a ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally Invasive Surgery Training Assessments. 2022 International Symposium on Medical  
+  Robotics (ISMR 2022)  
   [Link to Paper](https://ieeexplore.ieee.org/abstract/document/9807479)<br>
   [PDF Paper](http://zkarachi.github.io/files/paper3.pdf)
 
 - **"Fear is Grounded in Reality": The Impact of COVID-19 Pandemic on Refugees'Access to Health and Accessibility Resources in the United States**\
   F. Hamidi., and Z. Karachiwalla. (2022). “Fear is Grounded in Reality”: The Impact of COVID-19 Pandemic on Refugees’ Access to Health and Accessibility Resources in the United States. In ACM  
-  SIGCAS/SIGCHI Conference on Computing and   Sustainable Societies (COMPASS '22). Association for Computing Machinery.   
+  SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS 2022). Association for Computing Machinery.   
   [Link to Paper](https://dl.acm.org/doi/abs/10.1145/3530190.3534851)<br>
   [PDF Paper](http://zkarachi.github.io/files/FearisGronded.pdf)
   
