@@ -108,6 +108,10 @@ We contribute a descriptive analysis of manipulation approaches used during care
 
 This work builds directly on our earlier observational study, ["Towards the Development of Wound Care Robots"](/Publications/) (HRI 2024, Aging in Place Workshop).
 
+**Related papers:**
+- Descriptive Analysis of Manipulation Techniques in Wound Care (RO-MAN 2026) — *coming soon*
+- Towards the Development of Wound Care Robots (HRI 2024, Aging in Place Workshop) — [PDF Paper](http://zkarachi.github.io/files/WoundCareRobots.pdf)
+
 <div style="text-align: center;">
   <img src="http://zkarachi.github.io/files/WoundCareEndEffectorDiagram.png" alt="Wound dressing end effector design and fabrication" style="max-width:95%; height:auto;">
   <p><em>The process of developing our wound care robotic end effector: (a) CAD design of the roller mechanism, (b) fabrication of the 3D-printed bristle sheets, and (c) the completed end effector mounted on a robot arm during dressing placement.</em></p>
@@ -127,6 +131,8 @@ This work builds directly on our earlier observational study, ["Towards the Deve
 
 I helped create a bimanual haptic feedback device to assist novice surgeons on the Intuitive Surgical da Vinci surgical robot. I developed Python code to collect and process force and acceleration data from sensors on the robot, and I remapped these signals to control wrist-squeezing and vibrotactile motors on the haptic feedback device. Furthermore, I ran user studies to test the effectiveness of these modalities with novice users.
 
+**Related paper:** [Link to Paper](https://ieeexplore.ieee.org/abstract/document/9807479) | [PDF Paper](http://zkarachi.github.io/files/paper3.pdf)
+
 <div>
   <img src="http://zkarachi.github.io/files/VD.png" alt="Image 1" style="float:left; width:50%;">
   <img src="http://zkarachi.github.io/files/WSD.png" alt="Image 2" style="float:right; width:50%;">
@@ -145,6 +151,8 @@ I helped create a bimanual haptic feedback device to assist novice surgeons on t
 ### Multi-Axis FBG-Based Tactile Sensor for Gripping in Space
 
 I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment capabilities of teleoperated free-flying robots at the International Space Station (ISS). FBGs measure strain fiber-optically and, in the grasping task, inform the robot's controller of the forces exerted on the object or environment. I used finite element analysis to analyze the current strain applied to the optical fibers of the sensor design previously developed at BDML. From these results, I iterated upon the design until I successfully increased the strain on the optic fibers, resulting in improved sensitivity (without damaging the structure) and enhanced grasping abilities of the robot. My final design was successfully incorporated in the Astrobee Free Flyer (AFF) robot at the ISS; the AFF currently assists astronauts with time-consuming or dangerous tasks in and on the station.
+
+**Related paper:** [Link to Paper](https://ieeexplore.ieee.org/abstract/document/9635998) | [PDF Paper](http://zkarachi.github.io/files/FBG.pdf)
 
 <div style="text-align: center;">
   <video width="640" height="360" controls>
@@ -167,6 +175,8 @@ I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment
 
 I developed a system to test the durability of a new mitral valve ring design that lasts significantly longer than currently available rings; this work was especially meaningful to me because a longer-lasting ring meant that patients did not have to replace their ring as often, thus offering a more affordable and accessible intervention.
 
+**Related paper:** [Link to Paper](https://doi.org/10.1115/1.4054445) | [PDF Paper](http://zkarachi.github.io/files/paper1.pdf)
+
 <div style="display:flex;">
   <video src="http://zkarachi.github.io/files/Ringtestvideo.mp4" controls width="400" height="300"></video>
   <video src="http://zkarachi.github.io/files/motor_setup_video.mp4" controls width="400" height="300"></video>
@@ -186,13 +196,19 @@ I developed a system to test the durability of a new mitral valve ring design th
 
 I wanted to understand the perspectives of refugees with disabilities on social-cultural barriers that effect their access to medical care. With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need.
 
+**Related paper:** [Link to Paper](https://dl.acm.org/doi/abs/10.1145/3493612.3520446) | [PDF Paper](http://zkarachi.github.io/files/paper2.pdf)
+
 ### Structural accessibility barriers and service gaps facing refugees with disabilities in the United States
 
 I wanted to understand the perspectives of refugees with disabilities on service-gaps (especially between refugees and healthcare providers) that effect their access to medical care. With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need.
 
+**Related paper:** [Link to Paper](https://www.emerald.com/insight/content/doi/10.1108/JET-11-2021-0054/full/html?utm_campaign=Emerald_Health_PPV_Dec22_RoN) | [PDF Paper](http://zkarachi.github.io/files/UnderstandingBarriers.pdf)
+
 ### "Fear is Grounded in Reality": The Impact of the COVID-19 Pandemic on Refugees' Access to Health and Accessibility Resources in the United States
 
 With the hardships that hit the US with COVID-19, I wanted to understand the perspectives of refugees with disabilities on the effects of COVID-19 on their access to medical care. With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need during COVID-19.
+
+**Related paper:** [Link to Paper](https://dl.acm.org/doi/abs/10.1145/3530190.3534851) | [PDF Paper](http://zkarachi.github.io/files/FearisGronded.pdf)
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
