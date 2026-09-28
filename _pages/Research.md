@@ -240,7 +240,7 @@ We developed and evaluated DynaRing, a selectively compliant annuloplasty ring c
   <video src="http://zkarachi.github.io/files/Ringtestvideo.mp4" controls width="400" height="300"></video>
   <video src="http://zkarachi.github.io/files/motor_setup_video.mp4" controls width="400" height="300"></video>
 </div>
-<p style="text-align:center;"><em>Left: DynaRing under cyclic fatigue testing on newly designed testing apparatus. Right: newly developed motorized test setup used to evaluate the ring's variable-stiffness segments.</em></p>
+<p style="text-align:center;"><em>Left: DynaRing under cyclic fatigue testing on newly designed testing apparatus. Right: CAD design for motorized test setup used to evaluate the ring's variable-stiffness segments.</em></p>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
