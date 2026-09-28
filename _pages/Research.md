@@ -89,7 +89,7 @@ Click a project below to jump to its full description.
   </a>
 
   <a href="#wound-care" class="research-card">
-    <img src="http://zkarachi.github.io/files/WoundCareEndEffector.jpg" alt="Wound Care Robotics End Effector">
+    <img src="http://zkarachi.github.io/files/WoundCareEndEffector.jpg" alt="Wound Care Robotics End Effector" style="object-position: bottom;">
     <div class="card-title">Wound Care Robotics</div>
   </a>
 
@@ -120,12 +120,12 @@ Click a project below to jump to its full description.
   </a>
 
   <a href="#spermathecae-3d" class="research-card">
-    <img src="http://zkarachi.github.io/files/spermathecae.png" alt="Harvestman Spermathecae 3D Visualization">
+    <img src="http://zkarachi.github.io/files/Spermathecae3DModel.png" alt="Harvestman Spermathecae 3D Model">
     <div class="card-title">3D Visualization Using Confocal Microscopy</div>
   </a>
 
   <a href="#biology" class="research-card">
-    <img src="http://zkarachi.github.io/images/500x300.png" alt="Spermathecal Variation Research">
+    <img src="http://zkarachi.github.io/files/spermathecae.png" alt="Spermathecal Variation Research">
     <div class="card-title">Spermathecal Variation in Temperate Opiliones</div>
   </a>
 
@@ -291,10 +291,10 @@ We conducted interviews with four experts serving refugees in Maryland during th
 We used confocal microscopy to develop a non-invasive imaging and 3D-reconstruction method for the sperm storage organ of female arachnids; this produced the first-ever noninvasive imaging method for arachnids and the first 3D images of their sperm storage organs.
 
 <div class="media-center" style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
-  <img src="http://zkarachi.github.io/files/spermathecae.png" alt="Harvestman spermathecae 3D visualization" style="width:400px; height:auto;">
+  <img src="http://zkarachi.github.io/files/Spermathecae3DModel.png" alt="Harvestman spermathecae 3D reconstructed model" style="width:400px; height:auto;">
   <video src="http://zkarachi.github.io/files/Spermatheca_25_leftside.mp4" controls width="400" height="300"></video>
 </div>
-<p style="text-align:center;"><em>Left: First ever confocal microscopy image of harvestman spermathecae. Right: rotating 3D visualization of the same structure.</em></p>
+<p style="text-align:center;"><em>Left: 3D reconstructed model of a harvestman spermatheca generated from confocal microscopy imaging. Right: rotating 3D visualization of the same structure.</em></p>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
@@ -313,6 +313,11 @@ Sexual conflict theory predicts that female reproductive morphology should co-ev
 We examined spermathecal morphology across temperate harvestman species with differing mating systems, using dissection and imaging to characterize structural variation in the female sperm storage organs. Our findings show that spermathecal complexity varies with mating system, supporting the idea that female reproductive structures are shaped by sexual conflict and post-copulatory selection pressures.
 
 <p class="related-paper">Related paper: <a href="https://academic.oup.com/icb/article/63/1/188/5893480">Link to Paper</a></p>
+
+<div class="media-center">
+  <img src="http://zkarachi.github.io/files/spermathecae.png" alt="Confocal microscopy image of harvestman spermathecae" style="width:400px; height:auto;">
+  <p><em>First ever confocal microscopy image of harvestman spermathecae.</em></p>
+</div>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
