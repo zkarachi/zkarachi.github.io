@@ -4,8 +4,33 @@ title: "Mentoring"
 permalink: /Mentoring/
 author_profile: true
 ---
+
+<style>
+.mentee-collage {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2.5rem 0;
+}
+.mentee-collage img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.15);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.mentee-collage img:hover {
+  transform: translateY(-4px) scale(1.02);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+</style>
+
 Mentoring is something I am very passionate about! As a minority female I personally know the importance of mentorship to help advance students exerrience within Robotics. Therefore, I enjoy working through different organizations to network and mentor students within my field. 
 
+<div class="mentee-collage">
+  <img src="http://zkarachi.github.io/files/mentee-photos/mentee-photo-1.jpg" alt="With mentee Annika Srinivasan at a poster presentation">
+</div>
 
 ### Former Mentor — CMU School of Computer Science Mentorship Program
 - I mentored a group of bright and hard working young women at CMU in Computer Science. We met throughout the semester to discuss how everyone's research and classes were going. We discussed how I could support them in classes, navigating their research, and general networking.
