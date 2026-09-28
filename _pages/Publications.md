@@ -32,7 +32,7 @@ author_profile: true
 
 ### Conferences
 - **Descriptive Analysis of Manipulation Techniques in Wound Care**\
-  Z. Karachiwalla, A. Srinivasan, E. Lee, A. Dierkes, Z. Erickson, and H. Admoni. (2026). Descriptive Analysis of Manipulation Techniques in Wound Care. 2026 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026), Kitakyushu, Fukuoka, Japan. (
+  Z. Karachiwalla, A. Srinivasan, E. Lee, A. Dierkes, Z. Erickson, and H. Admoni. (2026). Descriptive Analysis of Manipulation Techniques in Wound Care. 2026 IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2026), Kitakyushu, Fukuoka, Japan.
   
 - **Towards the Development of Wound Care Robots: An Observational Study Outlining Robotic Design Needs**\
   Z. Karachiwalla, E. Lee, A. Dierkes, H. Admoni, and Z. Erickson. (2024). Towards the Development of Wound Care Robots: An Observational Study Outlining Robotic Design Needs. Aging in Place Workshop at the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024), Boulder, CO, USA.
