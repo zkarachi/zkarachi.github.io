@@ -294,7 +294,7 @@ We used confocal microscopy to develop a non-invasive imaging and 3D-reconstruct
   <img src="http://zkarachi.github.io/files/spermathecae.png" alt="Harvestman spermathecae 3D visualization" style="width:400px; height:auto;">
   <video src="http://zkarachi.github.io/files/Spermatheca_25_leftside.mp4" controls width="400" height="300"></video>
 </div>
-<p style="text-align:center;"><em>Left: 3D reconstruction of a harvestman spermatheca from confocal microscopy imaging. Right: rotating 3D visualization of the same structure.</em></p>
+<p style="text-align:center;"><em>Left: First ever confocal microscopy image of harvestman spermathecae. Right: rotating 3D visualization of the same structure.</em></p>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
