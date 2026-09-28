@@ -25,6 +25,10 @@
 
   .page__inner-wrap {
     @include full();
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+    padding: 1.5em 2em;
 
     .page__content,
     .page__meta,
@@ -37,6 +41,12 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
+  display: inline-block;
+  background: linear-gradient(135deg, #4a7dbf, #6a4abf);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  padding-bottom: 0.15em;
 
   & + .page__meta {
     margin-top: -0.5em;

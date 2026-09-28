@@ -14,6 +14,14 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  background:
+    radial-gradient(circle at 8% 15%, rgba(106, 74, 191, 0.16), transparent 28%),
+    radial-gradient(circle at 88% 10%, rgba(74, 125, 191, 0.20), transparent 32%),
+    radial-gradient(circle at 12% 85%, rgba(74, 125, 191, 0.16), transparent 32%),
+    radial-gradient(circle at 92% 88%, rgba(106, 74, 191, 0.18), transparent 32%),
+    radial-gradient(circle at 50% 50%, rgba(74, 125, 191, 0.08), transparent 60%),
+    #f4f6fb;
+  background-attachment: fixed;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */

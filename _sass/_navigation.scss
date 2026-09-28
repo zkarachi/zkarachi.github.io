@@ -207,6 +207,7 @@
     li {
       display: table-cell;
       vertical-align: middle;
+      padding: 0.25rem 0.25rem;
 
       &:first-child {
         font-weight: bold;
@@ -225,6 +226,19 @@
 
     a {
       position: relative;
+      background: linear-gradient(135deg, #4a7dbf, #6a4abf);
+      color: #fff !important;
+      border-radius: 999px;
+      padding: 0.5rem 1.1rem !important;
+      margin: 0 0.3rem !important;
+      box-shadow: 0 2px 8px rgba(74, 125, 191, 0.35);
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+      &:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 5px 14px rgba(74, 125, 191, 0.45);
+        color: #fff;
+      }
 
       &:before {
         content: "";
@@ -239,6 +253,7 @@
         -webkit-transform: scaleX(0);
             -ms-transform: scaleX(0);
                 transform: scaleX(0); /* hide*/
+        display: none;
       }
 
       &:hover:before {
