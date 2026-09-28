@@ -135,7 +135,7 @@ Click a project below to jump to its full description.
   </a>
 
   <a href="#accessibility" class="research-card">
-    <img src="http://zkarachi.github.io/images/500x300.png" alt="Refugee Accessibility Research">
+    <img src="http://zkarachi.github.io/files/UMBCLogo.png" alt="UMBC Logo" style="object-fit: contain; background: #fff;">
     <div class="card-title">Accessibility Barriers for Refugees with Disabilities</div>
   </a>
 
