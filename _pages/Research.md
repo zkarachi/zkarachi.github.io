@@ -57,6 +57,11 @@ Click a project below to jump to its full description.
 
 <div class="research-grid">
 
+  <a href="#wound-care" class="research-card">
+    <img src="http://zkarachi.github.io/files/WoundCareEndEffector.jpg" alt="Wound Care Robotics End Effector">
+    <div class="card-title">Descriptive Analysis of Manipulation Techniques in Wound Care</div>
+  </a>
+
   <a href="#haptics" class="research-card">
     <img src="http://zkarachi.github.io/files/VD.png" alt="Haptic Feedback System">
     <div class="card-title">Modular Haptic Feedback System for Robotic Surgery Training</div>
@@ -86,6 +91,29 @@ Click a project below to jump to its full description.
     <img src="http://zkarachi.github.io/images/500x300.png" alt="Spermathecal Variation Research">
     <div class="card-title">Spermathecal Variation By Mating System</div>
   </a>
+
+</div>
+
+---
+
+<div id="wound-care" class="research-section" markdown="1">
+
+## Robotic Wound Care
+
+### Descriptive Analysis of Manipulation Techniques in Wound Care
+
+The integration of robotics into wound care offers a promising solution to the growing patient demand amid a global nursing shortage. Formative work understanding the design requirements for wound care robotics to support clinical tasks remains an unmet need. Wound care is a very hands-on and collaborative domain, so understanding its manipulation demands is necessary for developing robotic systems that align with clinical needs.
+
+In this work, we observed nurses performing wound care (n=86 wounds) across a teaching hospital and an assisted living facility to inform the manipulation design requirements for robotics in this domain. Through a thematic analysis of our observational notes, we grouped nurse manipulation approaches into six areas: **grasping strategies, contact regions, bimanual manipulation, mobile manipulation, common motions, and workspace**. For each area, we identified dominant techniques and the clinical context driving their use, described how techniques vary across care tasks and subjects of interaction, and demonstrated how these findings inform robotic design decisions through the design and fabrication of a novel end effector for wound dressing.
+
+This work builds directly on our earlier observational study, ["Towards the Development of Wound Care Robots"](/Publications/) (HRI 2024, Aging in Place Workshop), extending it into a full manipulation taxonomy and a working robotic design case study.
+
+<div style="text-align: center;">
+  <img src="http://zkarachi.github.io/files/WoundCareEndEffector.jpg" alt="Wound dressing end effector design" style="max-width:60%; height:auto;">
+  <p><em>Our wound dressing end effector, designed and fabricated based on the manipulation taxonomy derived from our observational study.</em></p>
+</div>
+
+<a href="#top" class="back-to-top">&uarr; Back to top</a>
 
 </div>
 
