@@ -64,12 +64,12 @@ Click a project below to jump to its full description.
 
   <a href="#haptics" class="research-card">
     <img src="http://zkarachi.github.io/files/VD.png" alt="Haptic Feedback System">
-    <div class="card-title">Surgical Robotics</div>
+    <div class="card-title">Haptics for Surgical Robotics</div>
   </a>
 
   <a href="#fbg-sensor" class="research-card">
-    <img src="http://zkarachi.github.io/images/500x300.png" alt="Tactile Sensing for Gripping">
-    <div class="card-title">Tactile Sensing for Gripping</div>
+    <img src="http://zkarachi.github.io/images/500x300.png" alt="FBG Tactile Sensing for Robotic Gripping">
+    <div class="card-title">FBG Tactile Sensing for Robotic Gripping</div>
   </a>
 
   <a href="#dynaring" class="research-card">
