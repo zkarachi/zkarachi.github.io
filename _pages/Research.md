@@ -49,11 +49,16 @@ author_profile: true
   margin-top: 1rem;
   font-size: 0.85rem;
 }
+.grid-heading {
+  margin-top: 2rem;
+}
 </style>
 
 ## Browse My Research
 
 Click a project below to jump to its full description.
+
+### Ongoing Projects
 
 <div class="research-grid">
 
@@ -61,6 +66,17 @@ Click a project below to jump to its full description.
     <img src="http://zkarachi.github.io/files/WoundCareEndEffector.jpg" alt="Wound Care Robotics End Effector">
     <div class="card-title">Wound Care Robotics</div>
   </a>
+
+  <a href="#tui-symptom" class="research-card">
+    <img src="http://zkarachi.github.io/images/500x300.png" alt="Tangible Interactions for Symptom Expression">
+    <div class="card-title">Tangible Interactions for Symptom Expression</div>
+  </a>
+
+</div>
+
+### Completed Projects
+
+<div class="research-grid">
 
   <a href="#haptics" class="research-card">
     <img src="http://zkarachi.github.io/files/VD.png" alt="Haptic Feedback System">
@@ -123,13 +139,31 @@ This work builds directly on our earlier observational study, ["Towards the Deve
 
 ---
 
+<div id="tui-symptom" class="research-section" markdown="1">
+
+## Tangible Interactions for Symptom Expression
+
+### Tangible Interactions for Symptom Expression
+
+I am developing a tangible user interface (TUI) that lets people track and express their symptoms through physical object manipulation rather than typing or selecting from a list. Using a soma design study methodology, participants physically enact the bodily experience of their symptoms, and these embodied interactions inform the design of a symptom-tracking interface that better captures the lived, physical experience of illness than conventional text- or menu-based tracking tools.
+
+*More details and findings to come as this project develops.*
+
+<a href="#top" class="back-to-top">&uarr; Back to top</a>
+
+</div>
+
+---
+
 <div id="haptics" class="research-section" markdown="1">
 
 ## Haptics and Sensors Projects
 
 ### Towards a ROS-based Modular Multi-Modality Haptic Feedback System for Robotic Minimally Invasive Surgery Training Assessments
 
-I helped create a bimanual haptic feedback device to assist novice surgeons on the Intuitive Surgical da Vinci surgical robot. I developed Python code to collect and process force and acceleration data from sensors on the robot, and I remapped these signals to control wrist-squeezing and vibrotactile motors on the haptic feedback device. Furthermore, I ran user studies to test the effectiveness of these modalities with novice users.
+Robotic minimally invasive surgery (RMIS) platforms like the da Vinci provide no haptic feedback of tool interactions with the surgical environment, forcing novice surgeons to rely solely on visual cues to sense their physical interactions — a limitation that can make training slow and difficult.
+
+I helped build a ROS-based, modular multi-modality haptic feedback and data acquisition system that streams force and acceleration data from sensorized surgical tools in real time and renders it as wrist-squeezing or vibrotactile feedback through custom wrist-worn devices. I developed the Python-based signal processing pipeline and ran a user study with novice participants performing a peg-transfer task on a da Vinci robot, comparing wrist-squeezing, vibrotactile, and combined multi-modality feedback conditions. The system demonstrates the ability to run systematic, reproducible comparisons between haptic feedback approaches — addressing a key gap in prior work, which lacked a standardized framework for these comparisons.
 
 **Related paper:** [Link to Paper](https://ieeexplore.ieee.org/abstract/document/9807479) | [PDF Paper](http://zkarachi.github.io/files/paper3.pdf)
 
@@ -148,9 +182,11 @@ I helped create a bimanual haptic feedback device to assist novice surgeons on t
 
 <div id="fbg-sensor" class="research-section" markdown="1">
 
-### Multi-Axis FBG-Based Tactile Sensor for Gripping in Space
+### A Multi-Axis FBG-Based Tactile Sensor for Gripping in Space
 
-I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment capabilities of teleoperated free-flying robots at the International Space Station (ISS). FBGs measure strain fiber-optically and, in the grasping task, inform the robot's controller of the forces exerted on the object or environment. I used finite element analysis to analyze the current strain applied to the optical fibers of the sensor design previously developed at BDML. From these results, I iterated upon the design until I successfully increased the strain on the optic fibers, resulting in improved sensitivity (without damaging the structure) and enhanced grasping abilities of the robot. My final design was successfully incorporated in the Astrobee Free Flyer (AFF) robot at the ISS; the AFF currently assists astronauts with time-consuming or dangerous tasks in and on the station.
+Tactile sensing can improve end-effector control and grasp quality, especially for free-flying robots where target approach and alignment present unique challenges — but many conventional tactile sensing technologies are unsuited to the harsh environment of space.
+
+I helped develop a multi-axis tactile sensor that measures normal and shear strains in the pads of a robotic gripper using a single optical fiber with Bragg grating (FBG) sensors, which are immune to electromagnetic interference and can sample at over 1 kHz to detect dynamic events. I used finite element analysis to optimize the sensor design, increasing strain sensitivity at the fiber without compromising structural integrity. The final sensor was mounted on a custom two-fingered gripper and calibrated against a commercial multi-axis load cell with 96.2% RMS accuracy, and was demonstrated on tasks motivated by NASA's Astrobee free-flying robots aboard the International Space Station — including detecting misaligned grasps, perceiving shear forces, and improving load sharing across contact areas in pinch grasps.
 
 **Related paper:** [Link to Paper](https://ieeexplore.ieee.org/abstract/document/9635998) | [PDF Paper](http://zkarachi.github.io/files/FBG.pdf)
 
@@ -173,7 +209,9 @@ I developed a fiber Bragg grating (FBG) sensor to improve grasping and alignment
 
 ### DynaRing: A Patient-Specific Mitral Annuloplasty Ring With Selective Stiffness Segments
 
-I developed a system to test the durability of a new mitral valve ring design that lasts significantly longer than currently available rings; this work was especially meaningful to me because a longer-lasting ring meant that patients did not have to replace their ring as often, thus offering a more affordable and accessible intervention.
+Annuloplasty ring choice and design are critical to the long-term efficacy of mitral valve repair, but commercially available rings fail to account for the wide variation in annular dynamics across patients.
+
+I contributed to the development and evaluation of DynaRing, a selectively compliant annuloplasty ring composed of variable-stiffness elastomer segments, a shape-set nitinol core, and a cross-diameter filament that stabilizes a diseased annulus while preserving physiological annular dynamics. We evaluated the ring in porcine valves using an ex-vivo left heart simulator and performed a 150-million-cycle fatigue test to assess long-term durability, and developed a patient-specific design pipeline using finite element model optimization and patient MRI data. Our results show that DynaRing's motion closely matches literature values for healthy annuli and outperforms a commercially available semirigid ring, and that segment stiffness can be tuned via Bayesian optimization to match a wide range of patient-specific annular geometries. This work was especially meaningful to me because a longer-lasting, better-fitting ring means patients need fewer repeat procedures — offering a more affordable and accessible intervention.
 
 **Related paper:** [Link to Paper](https://doi.org/10.1115/1.4054445) | [PDF Paper](http://zkarachi.github.io/files/paper1.pdf)
 
@@ -194,21 +232,27 @@ I developed a system to test the durability of a new mitral valve ring design th
 
 ### "I'm ok because I'm alive": understanding socio-cultural accessibility barriers for refugees with disabilities in the US
 
-I wanted to understand the perspectives of refugees with disabilities on social-cultural barriers that effect their access to medical care. With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need.
+The number of refugees worldwide has doubled in the past decade, and many experience disabilities and mental health challenges compounded by violent or inhospitable conditions during displacement.
+
+I interviewed six experts who serve refugees in the US to understand the socio-cultural accessibility barriers refugees with disabilities face — including inadequate language and cultural support systems — and conducted thematic analysis to identify directions for structural change, including improved access to comprehensive insurance coverage, earlier recognition of mental health challenges, and support navigating the host country's complex healthcare system.
 
 **Related paper:** [Link to Paper](https://dl.acm.org/doi/abs/10.1145/3493612.3520446) | [PDF Paper](http://zkarachi.github.io/files/paper2.pdf)
 
 ### Structural accessibility barriers and service gaps facing refugees with disabilities in the United States
 
-I wanted to understand the perspectives of refugees with disabilities on service-gaps (especially between refugees and healthcare providers) that effect their access to medical care. With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need.
+This scoping study examines structural barriers and service gaps facing refugees with disabilities in the United States, from the perspective of the experts who serve them.
+
+Through semi-structured interviews with six experts who work with refugees, I found that refugees and their families are significantly impacted by disabilities and mental health challenges, and face structural barriers including navigating a complex healthcare system, geographic placements that limit access to employment or care, and difficulty accessing public transit. Our findings point to practical directions for improvement, including stronger structural support for refugees with disabilities and incentivizing healthcare providers to adopt more culturally aware language services.
 
 **Related paper:** [Link to Paper](https://www.emerald.com/insight/content/doi/10.1108/JET-11-2021-0054/full/html?utm_campaign=Emerald_Health_PPV_Dec22_RoN) | [PDF Paper](http://zkarachi.github.io/files/UnderstandingBarriers.pdf)
 
 ### "Fear is Grounded in Reality": The Impact of the COVID-19 Pandemic on Refugees' Access to Health and Accessibility Resources in the United States
 
-With the hardships that hit the US with COVID-19, I wanted to understand the perspectives of refugees with disabilities on the effects of COVID-19 on their access to medical care. With this goal, I interviewed community leaders that worked directly with refugees to gain insight on these barrier. I conducted thematic analysis to extract themes on barriers that prevent refugees from accessing the care they need during COVID-19.
+The COVID-19 pandemic disproportionately affected refugees with disabilities and mental health challenges, an understudied population facing compounding barriers to care.
 
-**Related paper:** [Link to Paper](https://dl.acm.org/doi/abs/10.1145/3530190.3534851) | [PDF Paper](http://zkarachi.github.io/files/FearisGronded.pdf)
+I conducted interviews with four experts serving refugees in Maryland during the first year of the pandemic to understand its impact on refugees' access to health and accessibility resources. Our findings describe how the co-existence of the pandemic with a turbulent political environment exacerbated existing inequities faced by refugees, and identify strategies for resilience that emerged within the communities these experts serve.
+
+**Related paper:** [Link to Paper](https://dl.acm.org/doi/abs/10.1145/3530190.3534851) | [PDF Paper](http://zkarachi.github.io/files/FearisGrounded.pdf)
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 

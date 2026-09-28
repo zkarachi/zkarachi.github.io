@@ -54,6 +54,6 @@ author_profile: true
   F. Hamidi., and Z. Karachiwalla. (2022). “Fear is Grounded in Reality”: The Impact of COVID-19 Pandemic on Refugees’ Access to Health and Accessibility Resources in the United States. In ACM  
   SIGCAS/SIGCHI Conference on Computing and Sustainable Societies (COMPASS 2022). Association for Computing Machinery.   
   [Link to Paper](https://dl.acm.org/doi/abs/10.1145/3530190.3534851)<br>
-  [PDF Paper](http://zkarachi.github.io/files/FearisGronded.pdf)
+  [PDF Paper](http://zkarachi.github.io/files/FearisGrounded.pdf)
   
  
