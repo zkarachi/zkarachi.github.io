@@ -21,8 +21,9 @@ author_profile: true
   <br>[Link to Paper](https://ieeexplore.ieee.org/abstract/document/9635998)<br> 
   [PDF Paper](http://zkarachi.github.io/files/FBG.pdf)
 
-- **Spermathecal Variation By Mating System in Temperate Harvestmen**\
-  Z. Karachiwalla., T. Decarvalho., and M. Burns,. (2020). Spermathecal Variation By Mating System in Temperate Harvestmen. In Journal of Integrative and Comparative Biology. 
+- **Spermathecal Variation in Temperate Opiliones**\
+  Karachiwalla, Z., deCarvalho, T., and Burns, M. (2023). Spermathecal Variation in Temperate Opiliones. Integrative and Comparative Biology, 63(1), 188–197.
+  <br>[Link to Paper](https://academic.oup.com/icb/article/63/1/188/5893480)
   
 - **Three-dimensional Visualization of Harvestman Spermathecae using Confocal Microscopy**\
   Z. Karachiwalla., T. Decarvalho., and M. Burns,. (2020). Three-dimensional Visualization of Harvestman Spermathecae using Confocal Microscopy. In Journal of Integrative and Comparative  
