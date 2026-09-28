@@ -215,7 +215,7 @@ We developed a multi-axis tactile sensor that measures normal and shear strains 
     <source src="http://zkarachi.github.io/files/presentation2 (1).mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <p><em>Demonstration of the multi-axis FBG tactile sensor mounted on a two-fingered gripper, detecting grasp alignment and shear forces.</em></p>
+  <p><em>FEA analysis of sensor design with shear force application.</em></p>
 </div>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
@@ -240,7 +240,7 @@ We developed and evaluated DynaRing, a selectively compliant annuloplasty ring c
   <video src="http://zkarachi.github.io/files/Ringtestvideo.mp4" controls width="400" height="300"></video>
   <video src="http://zkarachi.github.io/files/motor_setup_video.mp4" controls width="400" height="300"></video>
 </div>
-<p style="text-align:center;"><em>Left: DynaRing under cyclic fatigue testing. Right: the motorized test setup used to evaluate the ring's variable-stiffness segments.</em></p>
+<p style="text-align:center;"><em>Left: DynaRing under cyclic fatigue testing on newly designed testing apparatus. Right: newly developed motorized test setup used to evaluate the ring's variable-stiffness segments.</em></p>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
