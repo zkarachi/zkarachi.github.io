@@ -189,8 +189,9 @@ We built a ROS-based, modular multi-modality haptic feedback and data acquisitio
 <p class="related-paper">Related paper: <a href="https://ieeexplore.ieee.org/abstract/document/9807479">Link to Paper</a> <a href="http://zkarachi.github.io/files/paper3.pdf">PDF Paper</a></p>
 
 <div class="media-center">
-  <img src="http://zkarachi.github.io/files/VD.png" alt="Image 1" style="width:45%;">
-  <img src="http://zkarachi.github.io/files/WSD.png" alt="Image 2" style="width:45%;">
+  <img src="http://zkarachi.github.io/files/VD.png" alt="Vibrotactile feedback device" style="width:45%;">
+  <img src="http://zkarachi.github.io/files/WSD.png" alt="Wrist-squeezing feedback device" style="width:45%;">
+  <p><em>The custom wrist-worn haptic feedback devices: the vibrotactile device (left) and the wrist-squeezing device (right).</em></p>
 </div>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
@@ -214,6 +215,7 @@ We developed a multi-axis tactile sensor that measures normal and shear strains 
     <source src="http://zkarachi.github.io/files/presentation2 (1).mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+  <p><em>Demonstration of the multi-axis FBG tactile sensor mounted on a two-fingered gripper, detecting grasp alignment and shear forces.</em></p>
 </div>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
@@ -238,6 +240,7 @@ We developed and evaluated DynaRing, a selectively compliant annuloplasty ring c
   <video src="http://zkarachi.github.io/files/Ringtestvideo.mp4" controls width="400" height="300"></video>
   <video src="http://zkarachi.github.io/files/motor_setup_video.mp4" controls width="400" height="300"></video>
 </div>
+<p style="text-align:center;"><em>Left: DynaRing under cyclic fatigue testing. Right: the motorized test setup used to evaluate the ring's variable-stiffness segments.</em></p>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
@@ -291,6 +294,7 @@ We used confocal microscopy to develop a non-invasive imaging and 3D-reconstruct
   <img src="http://zkarachi.github.io/files/spermathecae.png" alt="Harvestman spermathecae 3D visualization" style="width:400px; height:auto;">
   <video src="http://zkarachi.github.io/files/Spermatheca_25_leftside.mp4" controls width="400" height="300"></video>
 </div>
+<p style="text-align:center;"><em>Left: 3D reconstruction of a harvestman spermatheca from confocal microscopy imaging. Right: rotating 3D visualization of the same structure.</em></p>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
