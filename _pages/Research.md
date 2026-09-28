@@ -59,17 +59,17 @@ Click a project below to jump to its full description.
 
   <a href="#wound-care" class="research-card">
     <img src="http://zkarachi.github.io/files/WoundCareEndEffector.jpg" alt="Wound Care Robotics End Effector">
-    <div class="card-title">Descriptive Analysis of Manipulation Techniques in Wound Care</div>
+    <div class="card-title">Wound Care Robotics</div>
   </a>
 
   <a href="#haptics" class="research-card">
     <img src="http://zkarachi.github.io/files/VD.png" alt="Haptic Feedback System">
-    <div class="card-title">Modular Haptic Feedback System for Robotic Surgery Training</div>
+    <div class="card-title">Surgical Robotics</div>
   </a>
 
   <a href="#fbg-sensor" class="research-card">
-    <img src="http://zkarachi.github.io/files/robot1.png" alt="FBG Tactile Sensor">
-    <div class="card-title">Multi-Axis FBG-Based Tactile Sensor for Gripping in Space</div>
+    <img src="http://zkarachi.github.io/images/500x300.png" alt="Tactile Sensing for Gripping">
+    <div class="card-title">Tactile Sensing for Gripping</div>
   </a>
 
   <a href="#dynaring" class="research-card">
@@ -84,7 +84,7 @@ Click a project below to jump to its full description.
 
   <a href="#spermathecae-3d" class="research-card">
     <img src="http://zkarachi.github.io/files/spermathecae.png" alt="Harvestman Spermathecae 3D Visualization">
-    <div class="card-title">3D Visualization of Harvestman Spermathecae</div>
+    <div class="card-title">3D Visualization Using Confocal Microscopy</div>
   </a>
 
   <a href="#biology" class="research-card">
