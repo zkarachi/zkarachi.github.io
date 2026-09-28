@@ -52,6 +52,27 @@ author_profile: true
 .grid-heading {
   margin-top: 2rem;
 }
+.related-paper {
+  font-style: italic;
+  color: #555;
+  border: none;
+  background: none;
+  padding: 0;
+  margin: 0.5rem 0 1rem 0;
+}
+.related-paper a {
+  margin-right: 0.75rem;
+}
+.media-center {
+  text-align: center;
+  margin: 1.5rem 0;
+}
+.media-center img,
+.media-center video {
+  max-width: 95%;
+  height: auto;
+  margin: 0 0.5rem;
+}
 </style>
 
 ## Browse My Research
@@ -130,7 +151,7 @@ This work builds directly on our earlier observational study, ["Towards the Deve
 
 <div style="text-align: center;">
   <img src="http://zkarachi.github.io/files/WoundCareEndEffectorDiagram.png" alt="Wound dressing end effector design and fabrication" style="max-width:95%; height:auto;">
-  <p><em>The process of developing our wound care robotic end effector: (a) CAD design of the roller mechanism, (b) fabrication of the 3D-printed bristle sheets, and (c) the completed end effector mounted on a robot arm during dressing placement.</em></p>
+  <p><em>The process of developing our wound care robotic end effector: (a) CAD design of the roller mechanism, (b) fabrication of the 3D-printed bristle sheets, and (c) the completed end effector mounted on a Kinova robot arm during dressing pick and place task.</em></p>
 </div>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
@@ -165,14 +186,12 @@ Robotic minimally invasive surgery (RMIS) platforms like the da Vinci provide no
 
 I helped build a ROS-based, modular multi-modality haptic feedback and data acquisition system that streams force and acceleration data from sensorized surgical tools in real time and renders it as wrist-squeezing or vibrotactile feedback through custom wrist-worn devices. I developed the Python-based signal processing pipeline and ran a user study with novice participants performing a peg-transfer task on a da Vinci robot, comparing wrist-squeezing, vibrotactile, and combined multi-modality feedback conditions. The system demonstrates the ability to run systematic, reproducible comparisons between haptic feedback approaches — addressing a key gap in prior work, which lacked a standardized framework for these comparisons.
 
-**Related paper:** [Link to Paper](https://ieeexplore.ieee.org/abstract/document/9807479) | [PDF Paper](http://zkarachi.github.io/files/paper3.pdf)
+<p class="related-paper">Related paper: <a href="https://ieeexplore.ieee.org/abstract/document/9807479">Link to Paper</a> <a href="http://zkarachi.github.io/files/paper3.pdf">PDF Paper</a></p>
 
-<div>
-  <img src="http://zkarachi.github.io/files/VD.png" alt="Image 1" style="float:left; width:50%;">
-  <img src="http://zkarachi.github.io/files/WSD.png" alt="Image 2" style="float:right; width:50%;">
+<div class="media-center">
+  <img src="http://zkarachi.github.io/files/VD.png" alt="Image 1" style="width:45%;">
+  <img src="http://zkarachi.github.io/files/WSD.png" alt="Image 2" style="width:45%;">
 </div>
-
-<br>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
@@ -188,9 +207,9 @@ Tactile sensing can improve end-effector control and grasp quality, especially f
 
 I helped develop a multi-axis tactile sensor that measures normal and shear strains in the pads of a robotic gripper using a single optical fiber with Bragg grating (FBG) sensors, which are immune to electromagnetic interference and can sample at over 1 kHz to detect dynamic events. I used finite element analysis to optimize the sensor design, increasing strain sensitivity at the fiber without compromising structural integrity. The final sensor was mounted on a custom two-fingered gripper and calibrated against a commercial multi-axis load cell with 96.2% RMS accuracy, and was demonstrated on tasks motivated by NASA's Astrobee free-flying robots aboard the International Space Station — including detecting misaligned grasps, perceiving shear forces, and improving load sharing across contact areas in pinch grasps.
 
-**Related paper:** [Link to Paper](https://ieeexplore.ieee.org/abstract/document/9635998) | [PDF Paper](http://zkarachi.github.io/files/FBG.pdf)
+<p class="related-paper">Related paper: <a href="https://ieeexplore.ieee.org/abstract/document/9635998">Link to Paper</a> <a href="http://zkarachi.github.io/files/FBG.pdf">PDF Paper</a></p>
 
-<div style="text-align: center;">
+<div class="media-center">
   <video width="640" height="360" controls>
     <source src="http://zkarachi.github.io/files/presentation2 (1).mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -213,9 +232,9 @@ Annuloplasty ring choice and design are critical to the long-term efficacy of mi
 
 I contributed to the development and evaluation of DynaRing, a selectively compliant annuloplasty ring composed of variable-stiffness elastomer segments, a shape-set nitinol core, and a cross-diameter filament that stabilizes a diseased annulus while preserving physiological annular dynamics. We evaluated the ring in porcine valves using an ex-vivo left heart simulator and performed a 150-million-cycle fatigue test to assess long-term durability, and developed a patient-specific design pipeline using finite element model optimization and patient MRI data. Our results show that DynaRing's motion closely matches literature values for healthy annuli and outperforms a commercially available semirigid ring, and that segment stiffness can be tuned via Bayesian optimization to match a wide range of patient-specific annular geometries. This work was especially meaningful to me because a longer-lasting, better-fitting ring means patients need fewer repeat procedures — offering a more affordable and accessible intervention.
 
-**Related paper:** [Link to Paper](https://doi.org/10.1115/1.4054445) | [PDF Paper](http://zkarachi.github.io/files/paper1.pdf)
+<p class="related-paper">Related paper: <a href="https://doi.org/10.1115/1.4054445">Link to Paper</a> <a href="http://zkarachi.github.io/files/paper1.pdf">PDF Paper</a></p>
 
-<div style="display:flex;">
+<div class="media-center" style="display:flex; justify-content:center; flex-wrap:wrap;">
   <video src="http://zkarachi.github.io/files/Ringtestvideo.mp4" controls width="400" height="300"></video>
   <video src="http://zkarachi.github.io/files/motor_setup_video.mp4" controls width="400" height="300"></video>
 </div>
@@ -236,7 +255,7 @@ The number of refugees worldwide has doubled in the past decade, and many experi
 
 I interviewed six experts who serve refugees in the US to understand the socio-cultural accessibility barriers refugees with disabilities face — including inadequate language and cultural support systems — and conducted thematic analysis to identify directions for structural change, including improved access to comprehensive insurance coverage, earlier recognition of mental health challenges, and support navigating the host country's complex healthcare system.
 
-**Related paper:** [Link to Paper](https://dl.acm.org/doi/abs/10.1145/3493612.3520446) | [PDF Paper](http://zkarachi.github.io/files/paper2.pdf)
+<p class="related-paper">Related paper: <a href="https://dl.acm.org/doi/abs/10.1145/3493612.3520446">Link to Paper</a> <a href="http://zkarachi.github.io/files/paper2.pdf">PDF Paper</a></p>
 
 ### Structural accessibility barriers and service gaps facing refugees with disabilities in the United States
 
@@ -244,7 +263,7 @@ This scoping study examines structural barriers and service gaps facing refugees
 
 Through semi-structured interviews with six experts who work with refugees, I found that refugees and their families are significantly impacted by disabilities and mental health challenges, and face structural barriers including navigating a complex healthcare system, geographic placements that limit access to employment or care, and difficulty accessing public transit. Our findings point to practical directions for improvement, including stronger structural support for refugees with disabilities and incentivizing healthcare providers to adopt more culturally aware language services.
 
-**Related paper:** [Link to Paper](https://www.emerald.com/insight/content/doi/10.1108/JET-11-2021-0054/full/html?utm_campaign=Emerald_Health_PPV_Dec22_RoN) | [PDF Paper](http://zkarachi.github.io/files/UnderstandingBarriers.pdf)
+<p class="related-paper">Related paper: <a href="https://www.emerald.com/insight/content/doi/10.1108/JET-11-2021-0054/full/html?utm_campaign=Emerald_Health_PPV_Dec22_RoN">Link to Paper</a> <a href="http://zkarachi.github.io/files/UnderstandingBarriers.pdf">PDF Paper</a></p>
 
 ### "Fear is Grounded in Reality": The Impact of the COVID-19 Pandemic on Refugees' Access to Health and Accessibility Resources in the United States
 
@@ -252,7 +271,7 @@ The COVID-19 pandemic disproportionately affected refugees with disabilities and
 
 I conducted interviews with four experts serving refugees in Maryland during the first year of the pandemic to understand its impact on refugees' access to health and accessibility resources. Our findings describe how the co-existence of the pandemic with a turbulent political environment exacerbated existing inequities faced by refugees, and identify strategies for resilience that emerged within the communities these experts serve.
 
-**Related paper:** [Link to Paper](https://dl.acm.org/doi/abs/10.1145/3530190.3534851) | [PDF Paper](http://zkarachi.github.io/files/FearisGrounded.pdf)
+<p class="related-paper">Related paper: <a href="https://dl.acm.org/doi/abs/10.1145/3530190.3534851">Link to Paper</a> <a href="http://zkarachi.github.io/files/FearisGrounded.pdf">PDF Paper</a></p>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
@@ -268,7 +287,10 @@ I conducted interviews with four experts serving refugees in Maryland during the
 
 I used confocal microscopy to develop a non-invasive imaging and 3D-reconstruction method for the sperm storage organ of female arachnids; I developed the first-ever noninvasive imaging method for arachnids and created the first 3D images of their sperm storage organs.
 
-![Image Description](http://zkarachi.github.io/files/spermathecae.png) | <video src="http://zkarachi.github.io/files/Spermatheca_25_leftside.mp4" controls width="400" height="300"></video>
+<div class="media-center" style="display:flex; justify-content:center; align-items:center; flex-wrap:wrap;">
+  <img src="http://zkarachi.github.io/files/spermathecae.png" alt="Harvestman spermathecae 3D visualization" style="width:400px; height:auto;">
+  <video src="http://zkarachi.github.io/files/Spermatheca_25_leftside.mp4" controls width="400" height="300"></video>
+</div>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
