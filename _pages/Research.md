@@ -102,15 +102,15 @@ Click a project below to jump to its full description.
 
 ### Descriptive Analysis of Manipulation Techniques in Wound Care
 
-The integration of robotics into wound care offers a promising solution to the growing patient demand amid a global nursing shortage. Formative work understanding the design requirements for wound care robotics to support clinical tasks remains an unmet need. Wound care is a very hands-on and collaborative domain, so understanding its manipulation demands is necessary for developing robotic systems that align with clinical needs.
+Robotics offers a promising way to help meet growing wound care demand amid a global nursing shortage, but understanding the manipulation demands of this hands-on, collaborative domain is a necessary first step.
 
-In this work, we observed nurses performing wound care (n=86 wounds) across a teaching hospital and an assisted living facility to inform the manipulation design requirements for robotics in this domain. Through a thematic analysis of our observational notes, we grouped nurse manipulation approaches into six areas: **grasping strategies, contact regions, bimanual manipulation, mobile manipulation, common motions, and workspace**. For each area, we identified dominant techniques and the clinical context driving their use, described how techniques vary across care tasks and subjects of interaction, and demonstrated how these findings inform robotic design decisions through the design and fabrication of a novel end effector for wound dressing.
+We contribute a descriptive analysis of manipulation approaches used during care, grouped into six areas: grasping, mobile manipulation, bi-manual manipulation, contact regions, common motions, and work area. For each, we describe the emergent strategies observed, the clinical context driving their use, and how strategies are employed for different subjects of manipulation (e.g., patients, the wound, or materials) and care tasks. Finally, we demonstrate how our findings within these manipulation areas can be used to inform robotic design through a case study in which we design and fabricate a wound dressing end effector.
 
-This work builds directly on our earlier observational study, ["Towards the Development of Wound Care Robots"](/Publications/) (HRI 2024, Aging in Place Workshop), extending it into a full manipulation taxonomy and a working robotic design case study.
+This work builds directly on our earlier observational study, ["Towards the Development of Wound Care Robots"](/Publications/) (HRI 2024, Aging in Place Workshop).
 
 <div style="text-align: center;">
   <img src="http://zkarachi.github.io/files/WoundCareEndEffectorDiagram.png" alt="Wound dressing end effector design and fabrication" style="max-width:95%; height:auto;">
-  <p><em>(a) CAD design of the roller-based end effector; (b) the 3D-printed bristle sheets used for wound dressing manipulation; (c) the fabricated end effector mounted on a robot arm during dressing placement.</em></p>
+  <p><em>The process of developing our wound care robotic end effector: (a) CAD design of the roller mechanism, (b) fabrication of the 3D-printed bristle sheets, and (c) the completed end effector mounted on a robot arm during dressing placement.</em></p>
 </div>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
