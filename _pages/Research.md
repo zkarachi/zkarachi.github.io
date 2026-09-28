@@ -139,7 +139,9 @@ Click a project below to jump to its full description.
 
 ### Tangible Interactions for Symptom Expression
 
-I am developing a tangible user interface (TUI) that lets people track and express their symptoms through physical object manipulation rather than typing or selecting from a list. Using a soma design study methodology, participants physically enact the bodily experience of their symptoms, and these embodied interactions inform the design of a symptom-tracking interface that better captures the lived, physical experience of illness than conventional text- or menu-based tracking tools.
+Endometriosis affects approximately 10% of women of reproductive age worldwide and causes chronic pain, fatigue, and mood disturbances that fluctuate over time. Current tracking methods, such as numerical pain scales, questionnaires, and mobile apps, reduce these deeply subjective and complex bodily experiences to discrete data points, and are often difficult to articulate through verbal or numeric report alone.
+
+We are developing a Tangible User Interface (TUI) that allows people to express and track their symptoms through physical, embodied object manipulation rather than typing or selecting from a list. Using a soma design-based Research through Design methodology, we conducted five workshops with eight participants with endometriosis, in which participants interacted with a collection of 41 tangible objects to externalize their experience of pain, fatigue, and mood disturbances. These embodied interactions inform the design of a symptom-tracking interface that better captures the lived, physical experience of illness than conventional text- or menu-based tracking tools.
 
 *More details and findings to come as this project develops.*
 

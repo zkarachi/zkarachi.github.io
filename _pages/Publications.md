@@ -24,10 +24,6 @@ author_profile: true
 - **Spermathecal Variation in Temperate Opiliones**\
   Karachiwalla, Z., deCarvalho, T., and Burns, M. (2023). Spermathecal Variation in Temperate Opiliones. Integrative and Comparative Biology, 63(1), 188–197.
   <br>[Link to Paper](https://academic.oup.com/icb/article/63/1/188/5893480)
-  
-- **Three-dimensional Visualization of Harvestman Spermathecae using Confocal Microscopy**\
-  Z. Karachiwalla., T. Decarvalho., and M. Burns,. (2020). Three-dimensional Visualization of Harvestman Spermathecae using Confocal Microscopy. In Journal of Integrative and Comparative  
-  Biology.
 
 ---
 
@@ -38,6 +34,10 @@ author_profile: true
 - **Towards the Development of Wound Care Robots: An Observational Study Outlining Robotic Design Needs**\
   Z. Karachiwalla, E. Lee, A. Dierkes, H. Admoni, and Z. Erickson. (2024). Towards the Development of Wound Care Robots: An Observational Study Outlining Robotic Design Needs. Aging in Place Workshop at the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024), Boulder, CO, USA.
   <br>[PDF Paper](http://zkarachi.github.io/files/WoundCareRobots.pdf)
+
+- **Three-dimensional Visualization of Harvestman Spermathecae using Confocal Microscopy**\
+  Z. Karachiwalla., T. Decarvalho., and M. Burns,. (2020). Three-dimensional Visualization of Harvestman Spermathecae using Confocal Microscopy. Society for Integrative and Comparative Biology (SICB) Annual Meeting.
+  <br>[Link to Abstract](https://sicb.org/abstracts/three-dimensional-visualization-of-harvestman-spermathecae-using-confocal-microscopy/)
 
 - **"I'm ok because I'm alive": understanding socio-cultural accessibility barriers for refugees with disabilities in the US**\
   F. Hamidi., and Z. Karachiwalla. (2022). "I'm ok because I'm alive": understanding socio-cultural accessibility barriers for refugees with disabilities in the US. In Proceedings of the 19th   
