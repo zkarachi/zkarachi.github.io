@@ -84,7 +84,7 @@ Click a project below to jump to its full description.
 <div class="research-grid">
 
   <a href="#tui-symptom" class="research-card">
-    <img src="http://zkarachi.github.io/images/500x300.png" alt="Tangible Interactions for Symptom Expression">
+    <img src="http://zkarachi.github.io/files/TUISymptomThumbnail.jpg" alt="Tangible Interactions for Symptom Expression">
     <div class="card-title">Tangible Interactions for Symptom Expression</div>
   </a>
 
