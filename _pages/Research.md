@@ -109,8 +109,8 @@ In this work, we observed nurses performing wound care (n=86 wounds) across a te
 This work builds directly on our earlier observational study, ["Towards the Development of Wound Care Robots"](/Publications/) (HRI 2024, Aging in Place Workshop), extending it into a full manipulation taxonomy and a working robotic design case study.
 
 <div style="text-align: center;">
-  <img src="http://zkarachi.github.io/files/WoundCareEndEffector.jpg" alt="Wound dressing end effector design" style="max-width:60%; height:auto;">
-  <p><em>Our wound dressing end effector, designed and fabricated based on the manipulation taxonomy derived from our observational study.</em></p>
+  <img src="http://zkarachi.github.io/files/WoundCareEndEffectorDiagram.png" alt="Wound dressing end effector design and fabrication" style="max-width:95%; height:auto;">
+  <p><em>(a) CAD design of the roller-based end effector; (b) the 3D-printed bristle sheets used for wound dressing manipulation; (c) the fabricated end effector mounted on a robot arm during dressing placement.</em></p>
 </div>
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
