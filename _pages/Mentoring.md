@@ -30,6 +30,7 @@ Mentoring is something I am very passionate about! As a minority female I person
 
 <div class="mentee-collage">
   <img src="http://zkarachi.github.io/files/mentee-photos/mentee-photo-1.jpg" alt="With mentee Annika Srinivasan at a poster presentation">
+  <img src="http://zkarachi.github.io/files/mentee-photos/mentee-photo-2.jpg" alt="With a mentee outside">
 </div>
 
 ### Former Mentor — CMU School of Computer Science Mentorship Program
