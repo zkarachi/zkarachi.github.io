@@ -26,7 +26,7 @@ author_profile: true
 }
 </style>
 
-Mentoring is something I am very passionate about! As a minority female I personally know the importance of mentorship to help advance students exerrience within Robotics. Therefore, I enjoy working through different organizations to network and mentor students within my field. 
+Mentoring is something I am very passionate about — in particular, supporting and encouraging women pursuing Robotics and CS. I enjoy working through different organizations to network and mentor students in my field.
 
 <div class="mentee-collage">
   <img src="http://zkarachi.github.io/files/mentee-photos/mentee-photo-1.jpg" alt="With mentee Annika Srinivasan at a poster presentation">
