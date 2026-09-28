@@ -73,6 +73,26 @@ author_profile: true
   height: auto;
   margin: 0 0.5rem;
 }
+.study-website-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  padding: 0.65rem 1.25rem;
+  background: linear-gradient(135deg, #4a7dbf, #6a4abf);
+  color: #fff !important;
+  font-weight: 600;
+  font-size: 0.95rem;
+  border-radius: 999px;
+  text-decoration: none !important;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.15);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.study-website-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.2);
+  text-decoration: none !important;
+}
 </style>
 
 ## Browse My Research
@@ -89,7 +109,7 @@ Click a project below to jump to its full description.
   </a>
 
   <a href="#wound-care" class="research-card">
-    <img src="http://zkarachi.github.io/files/WoundCareEndEffector.jpg" alt="Wound Care Robotics End Effector" style="object-position: bottom;">
+    <img src="http://zkarachi.github.io/files/WoundCareEndEffector.jpg" alt="Wound Care Robotics End Effector" style="object-fit: contain; background: #fff;">
     <div class="card-title">Wound Care Robotics</div>
   </a>
 
@@ -166,6 +186,10 @@ This work builds directly on our earlier observational study, ["Towards the Deve
 **Related papers:**
 - Descriptive Analysis of Manipulation Techniques in Wound Care (RO-MAN 2026) — *coming soon*
 - Towards the Development of Wound Care Robots (HRI 2024, Aging in Place Workshop) — [PDF Paper](http://zkarachi.github.io/files/WoundCareRobots.pdf)
+
+<div style="text-align: center;">
+  <a href="https://woundtechfornurses.github.io/WoundTech/" class="study-website-btn" target="_blank" rel="noopener">🔗 Explore the Study Website — Data, Videos &amp; Manipulation Examples</a>
+</div>
 
 <div style="text-align: center;">
   <img src="http://zkarachi.github.io/files/WoundCareEndEffectorDiagram.png" alt="Wound dressing end effector design and fabrication" style="max-width:95%; height:auto;">
