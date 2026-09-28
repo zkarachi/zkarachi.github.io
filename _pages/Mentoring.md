@@ -7,11 +7,11 @@ author_profile: true
 Mentoring is something I am very passionate about! As a minority female I personally know the importance of mentorship to help advance students exerrience within Robotics. Therefore, I enjoy working through different organizations to network and mentor students within my field. 
 
 
-### Mentor — CMU School of Computer Science Mentorship Program
-- I mentor a group of bright and hard working young women at CMU in Computer Sceince. We meet throughout the semester to discuss how everyones research and classes are going. We discuss how I can support them in classes, navigating their research and general networking.
+### Former Mentor — CMU School of Computer Science Mentorship Program
+- I mentored a group of bright and hard working young women at CMU in Computer Science. We met throughout the semester to discuss how everyone's research and classes were going. We discussed how I could support them in classes, navigating their research, and general networking.
 
-### Coding Instructor - Girls Who Code 
-- During my undergrad I was an instrcutor for the GWC organization which provided weekly free coding classes to middle school & highschool girls. I developed ciriculums to teach C++, python and arduino coding. I also helped to created an empowering and fun enviroment for students to learn and excel in CS and Robotics!
+### Former Coding Instructor - Girls Who Code 
+- During my undergrad I was an instructor for the GWC organization, which provided weekly free coding classes to middle school & high school girls. I developed curricula to teach C++, Python, and Arduino coding. I also helped create an empowering and fun environment for students to learn and excel in CS and Robotics!
 
 ### Current Mentees
 - [Deanna Paukstitus](https://www.linkedin.com/in/deanna-paukstitus-607055410/)
