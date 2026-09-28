@@ -83,14 +83,14 @@ Click a project below to jump to its full description.
 
 <div class="research-grid">
 
-  <a href="#wound-care" class="research-card">
-    <img src="http://zkarachi.github.io/files/WoundCareEndEffector.jpg" alt="Wound Care Robotics End Effector">
-    <div class="card-title">Wound Care Robotics</div>
-  </a>
-
   <a href="#tui-symptom" class="research-card">
     <img src="http://zkarachi.github.io/images/500x300.png" alt="Tangible Interactions for Symptom Expression">
     <div class="card-title">Tangible Interactions for Symptom Expression</div>
+  </a>
+
+  <a href="#wound-care" class="research-card">
+    <img src="http://zkarachi.github.io/files/WoundCareEndEffector.jpg" alt="Wound Care Robotics End Effector">
+    <div class="card-title">Wound Care Robotics</div>
   </a>
 
 </div>
@@ -133,6 +133,22 @@ Click a project below to jump to its full description.
 
 ---
 
+<div id="tui-symptom" class="research-section" markdown="1">
+
+## Tangible Interactions for Symptom Expression
+
+### Tangible Interactions for Symptom Expression
+
+I am developing a tangible user interface (TUI) that lets people track and express their symptoms through physical object manipulation rather than typing or selecting from a list. Using a soma design study methodology, participants physically enact the bodily experience of their symptoms, and these embodied interactions inform the design of a symptom-tracking interface that better captures the lived, physical experience of illness than conventional text- or menu-based tracking tools.
+
+*More details and findings to come as this project develops.*
+
+<a href="#top" class="back-to-top">&uarr; Back to top</a>
+
+</div>
+
+---
+
 <div id="wound-care" class="research-section" markdown="1">
 
 ## Robotic Wound Care
@@ -153,22 +169,6 @@ This work builds directly on our earlier observational study, ["Towards the Deve
   <img src="http://zkarachi.github.io/files/WoundCareEndEffectorDiagram.png" alt="Wound dressing end effector design and fabrication" style="max-width:95%; height:auto;">
   <p><em>The process of developing our wound care robotic end effector: (a) CAD design of the roller mechanism, (b) fabrication of the 3D-printed bristle sheets, and (c) the completed end effector mounted on a Kinova robot arm during dressing pick and place task.</em></p>
 </div>
-
-<a href="#top" class="back-to-top">&uarr; Back to top</a>
-
-</div>
-
----
-
-<div id="tui-symptom" class="research-section" markdown="1">
-
-## Tangible Interactions for Symptom Expression
-
-### Tangible Interactions for Symptom Expression
-
-I am developing a tangible user interface (TUI) that lets people track and express their symptoms through physical object manipulation rather than typing or selecting from a list. Using a soma design study methodology, participants physically enact the bodily experience of their symptoms, and these embodied interactions inform the design of a symptom-tracking interface that better captures the lived, physical experience of illness than conventional text- or menu-based tracking tools.
-
-*More details and findings to come as this project develops.*
 
 <a href="#top" class="back-to-top">&uarr; Back to top</a>
 
