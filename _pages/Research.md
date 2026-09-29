@@ -155,7 +155,7 @@ Click a project below to jump to its full description.
 
 <div id="tui-symptom" class="research-section" markdown="1">
 
-## Tangible Interactions for Symptom Expression
+## Interaction Design
 
 ### Tangible Interactions for Symptom Expression
 
